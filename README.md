@@ -1,4 +1,6 @@
 # Clases,Trabajos,Tareas Laboratorio c#- Escuela
+### tarea-1
+agregar,eliminar,insertar numeros de una lista
 ### copitos
 por la consola caeran * que simulan ser copos de nieve(?)
 ![image](https://user-images.githubusercontent.com/66080281/119400755-00961080-bcb1-11eb-813b-892eafc53f0b.png)
