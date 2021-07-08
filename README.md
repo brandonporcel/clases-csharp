@@ -24,8 +24,7 @@ Siempre trabajando con una lista pre armada de números:
 3. Buscar el elemento que contenga el numero 10 e insertar antes y después un 0
 4. Eliminar en primer y el ultimo elemento
 5. Eliminar en segundo y el ante ultimo elemento
-   </br>
-
+</br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### Ejercicio ABM
@@ -41,10 +40,10 @@ Menu:
 3. Eliminación de una persona
 4. Informe el promedio de edad
 5. Listado completo
-   </br>
+</br>
 
 ![image](https://user-images.githubusercontent.com/66080281/124985814-3ac53280-e011-11eb-9cee-f8b5aa8a0dbc.png)
-
+</br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### Ejercicio Windows Forms
@@ -60,25 +59,16 @@ _antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
 
 ![image](https://user-images.githubusercontent.com/66080281/124987964-cdff6780-e013-11eb-9498-ef91fa695e7f.png)
 ![image](https://user-images.githubusercontent.com/66080281/124988562-862d1000-e014-11eb-88d1-f4e4f5eb915a.png)
-
+</br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### copitos
+_crear proyecto con la plantilla: Aplicacion de consola_
 
-por la consola caeran \* que simulan ser copos de nieve(?)
+en tu consola caeran \*/ que simulan ser copos de nieve✨✨
 ![image](https://user-images.githubusercontent.com/66080281/119400755-00961080-bcb1-11eb-813b-892eafc53f0b.png)
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
-### sacar mayor
-
-empezamos a trabajar con forms(la visual de windows).
-el user introduce numeros en 3 inputs distintos y cuando aprete un boton se mostrara el nro mayor
-incluye un gif y un video* pq el que programo esto estaba aburrido </br>
-*para poder reproducir el video,cambiar rutas en el panel "propiedades" y activar el media player-> https://stackoverflow.com/questions/52244726/how-to-add-videos-in-a-windows-form-applctn </br>
-![image](https://user-images.githubusercontent.com/66080281/122606676-b570e280-d04f-11eb-9976-47763a4a226b.png)
-</br>
-[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
-
 ## Caraduría
-por [branodn porcel](https://instagram.com/brandonporcel)
+*por [brandon porcel](https://instagram.com/brandonporcel)*
