@@ -26,7 +26,7 @@ Siempre trabajando con una lista pre armada de números:
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
-###Ejercicio ABM
+### Ejercicio ABM
 *crear proyecto con la plantilla: Aplicacion de consola*
 
 Hola chicos. Necesito que armen un programa integrador ABM, esto significa Altas, Bajas y Modificaciones.
