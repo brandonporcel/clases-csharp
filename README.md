@@ -1,11 +1,9 @@
 # c#
 
-Clases,Trabajos,Tareas Laboratorio - Escuela 2021
-blabbalavldab balbl
-visual community
-orden de tareas mandadas y trabahos personales
-en algunos usar forms otros consola
-**NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment**
+En este repostorio encontraras el codigo clave para realizar las tareas,proyectos personales,clases guiadas por la materia laboratorio poo de 5año,2021. </br>
+El entorno de desarollo que usamos es Visual Community
+
+**NOTA: Esto es una nota**
 
 ## Indice
 
@@ -81,3 +79,6 @@ incluye un gif y un video* pq el que programo esto estaba aburrido </br>
 ![image](https://user-images.githubusercontent.com/66080281/122606676-b570e280-d04f-11eb-9976-47763a4a226b.png)
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
+
+## Caraduría
+por [branodn porcel](https://instagram.com/brandonporcel)
