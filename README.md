@@ -11,6 +11,7 @@ El entorno de desarollo que usamos es Visual Community
 - [tarea 2](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
 - [Ejercicios - 15 Apr](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
 - [Ejercicio ABM - 13 May](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
+- [Copitos - 20 May](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#copitos)
 - [Ejercicio Windows Forms - 24 Jun](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicio-windows-forms)
 
 ### Ejercicios
@@ -24,7 +25,7 @@ Siempre trabajando con una lista pre armada de números:
 3. Buscar el elemento que contenga el numero 10 e insertar antes y después un 0
 4. Eliminar en primer y el ultimo elemento
 5. Eliminar en segundo y el ante ultimo elemento
-</br>
+
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### Ejercicio ABM
@@ -62,7 +63,7 @@ _antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
-### copitos
+### Copitos
 _crear proyecto con la plantilla: Aplicacion de consola_
 
 en tu consola caeran \*/ que simulan ser copos de nieve✨✨
@@ -71,4 +72,4 @@ en tu consola caeran \*/ que simulan ser copos de nieve✨✨
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ## quien?
-*por [brandon porcel](https://instagram.com/brandonporcel)*
+*yo, [brandon porcel](https://instagram.com/brandonporcel)*
