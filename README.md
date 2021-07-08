@@ -47,6 +47,7 @@ Menu:
 
 ### Ejercicio Windows Forms
 *crear proyecto con la plantilla: Aplicacion de Windows Forms(.NET Framework)*
+  *antes de programar,agregar las herramientas de w. forms(buttons,listbox)*
 
 1. Con el boton > pasar item seleccionado
 2. Con el boton >>> pasar todos items seleccionados
@@ -54,6 +55,9 @@ Menu:
 4. ~~Al seleccionar un item y presionar la tecla tab estando en el listado se debe mover el mismo de un listBox hacia el otro respetando la posición~~
 
 ![image](https://user-images.githubusercontent.com/66080281/124987964-cdff6780-e013-11eb-9498-ef91fa695e7f.png)
+![image](https://user-images.githubusercontent.com/66080281/124988562-862d1000-e014-11eb-88d1-f4e4f5eb915a.png)
+
+[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 
 ### copitos
