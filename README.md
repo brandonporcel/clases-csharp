@@ -13,6 +13,7 @@ en algunos usar forms otros consola
 - [tarea 2](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
 - [Ejercicios - 15 Apr](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
 - [Ejercicio ABM - 13 May](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
+- [Ejercicio Windows Forms - 24 Jun](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicio-windows-forms)
 
 ### Ejercicios
 *crear proyecto con la plantilla: Aplicacion de consola*
@@ -43,6 +44,17 @@ Menu:
 ![image](https://user-images.githubusercontent.com/66080281/124985814-3ac53280-e011-11eb-9cee-f8b5aa8a0dbc.png)
 
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
+
+### Ejercicio Windows Forms
+*crear proyecto con la plantilla: Aplicacion de Windows Forms(.NET Framework)*
+
+1. Con el boton > pasar item seleccionado
+2. Con el boton >>> pasar todos items seleccionados
+3. Al hacer doble click en un item eliminarlo
+4. ~~Al seleccionar un item y presionar la tecla tab estando en el listado se debe mover el mismo de un listBox hacia el otro respetando la posición~~
+
+![image](https://user-images.githubusercontent.com/66080281/124987964-cdff6780-e013-11eb-9498-ef91fa695e7f.png)
+
 
 ### copitos
 
