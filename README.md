@@ -5,9 +5,11 @@ blabbalavldab balbl
 
 **NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment** 
 
+
+
 ## Indice
-- [tarea 1](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#tarea-1)
-- [tarea 2](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#tarea-2)
+- [tarea 1](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
+- [tarea 2](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
 - [sacar mayor](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#sacar-nayor)
 
 
