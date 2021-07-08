@@ -1,6 +1,6 @@
 # c#
 
-Clases,Trabajos,Tareas Laboratorio - Escuela
+Clases,Trabajos,Tareas Laboratorio - Escuela 2021
 blabbalavldab balbl
 
 **NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment**
@@ -9,11 +9,17 @@ blabbalavldab balbl
 
 - [tarea 1](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
 - [tarea 2](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
-- [sacar mayor](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#sacar-nayor)
+- [ejercicios 15 Apr](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
 
-### tarea-1
-
-agregar,eliminar,insertar numeros de una lista
+### ejercicios
+Siempre trabajando con una lista pre armada de números:
+1. Buscar los elementos que contengan el numero 10 e insertar antes el numero 0
+2. Buscar los elementos que contengan el numero 10 e insertar después el numero 0
+3. Buscar el elemento que contenga el numero 10 e insertar antes y después un 0
+4. Eliminar en primer y el ultimo elemento
+5. Eliminar en segundo y el ante ultimo elemento
+6. </br>
+[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### copitos
 
