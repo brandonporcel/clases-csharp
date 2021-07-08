@@ -7,8 +7,8 @@ blabbalavldab balbl
 
 ## Index
 - [tarea 1](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#tarea-1)
-- tarea-2
-- Tarea 3
+- [tarea 2](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#tarea-2)
+- [sacar mayor](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#sacar-nayor)
 
 
 ### tarea-1
