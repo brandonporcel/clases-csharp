@@ -30,6 +30,7 @@ Siempre trabajando con una lista pre armada de números:
 *crear proyecto con la plantilla: Aplicacion de consola*
 
 Hola chicos. Necesito que armen un programa integrador ABM, esto significa Altas, Bajas y Modificaciones.
+
 Menu:
 1. Ingreso de nueva persona
 2. Modificación de una persona
@@ -37,8 +38,9 @@ Menu:
 4. Informe el promedio de edad
 5. Listado completo
 </br>
-![image](https://user-images.githubusercontent.com/66080281/124984665-e40b2900-e00f-11eb-942a-8cd0b5d427ee.png)
-</br>
+
+![image](https://user-images.githubusercontent.com/66080281/124985814-3ac53280-e011-11eb-9cee-f8b5aa8a0dbc.png)
+
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### copitos
