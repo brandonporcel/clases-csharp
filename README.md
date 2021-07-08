@@ -6,8 +6,8 @@ blabbalavldab balbl
 **NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment** 
 
 ## Index
-- tarea-1
-- [tarea 2](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#tarea-2)
+- [tarea 1](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#tarea-1)
+- tarea-2
 - Tarea 3
 
 
