@@ -2,7 +2,9 @@
 
 Clases,Trabajos,Tareas Laboratorio - Escuela 2021
 blabbalavldab balbl
-
+visual community
+orden de tareas mandadas y trabahos personales
+en algunos usar forms otros consola
 **NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment**
 
 ## Indice
@@ -12,6 +14,8 @@ blabbalavldab balbl
 - [ejercicios 15 Apr](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
 
 ### ejercicios
+*crear proyecto con la plantilla: Aplicacion de consola*
+
 Siempre trabajando con una lista pre armada de números:
 1. Buscar los elementos que contengan el numero 10 e insertar antes el numero 0
 2. Buscar los elementos que contengan el numero 10 e insertar después el numero 0
