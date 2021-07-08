@@ -24,6 +24,7 @@ Siempre trabajando con una lista pre armada de números:
 4. Eliminar en primer y el ultimo elemento
 5. Eliminar en segundo y el ante ultimo elemento
 </br>
+
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### Ejercicio ABM
