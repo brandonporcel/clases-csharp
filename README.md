@@ -16,38 +16,44 @@ en algunos usar forms otros consola
 - [Ejercicio Windows Forms - 24 Jun](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicio-windows-forms)
 
 ### Ejercicios
-*crear proyecto con la plantilla: Aplicacion de consola*
+
+_crear proyecto con la plantilla: Aplicacion de consola_
 
 Siempre trabajando con una lista pre armada de números:
+
 1. Buscar los elementos que contengan el numero 10 e insertar antes el numero 0
 2. Buscar los elementos que contengan el numero 10 e insertar después el numero 0
 3. Buscar el elemento que contenga el numero 10 e insertar antes y después un 0
 4. Eliminar en primer y el ultimo elemento
 5. Eliminar en segundo y el ante ultimo elemento
-</br>
+   </br>
 
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### Ejercicio ABM
-*crear proyecto con la plantilla: Aplicacion de consola*
+
+_crear proyecto con la plantilla: Aplicacion de consola_
 
 Hola chicos. Necesito que armen un programa integrador ABM, esto significa Altas, Bajas y Modificaciones.
 
 Menu:
+
 1. Ingreso de nueva persona
 2. Modificación de una persona
 3. Eliminación de una persona
 4. Informe el promedio de edad
 5. Listado completo
-</br>
+   </br>
 
 ![image](https://user-images.githubusercontent.com/66080281/124985814-3ac53280-e011-11eb-9cee-f8b5aa8a0dbc.png)
 
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### Ejercicio Windows Forms
-*crear proyecto con la plantilla: Aplicacion de Windows Forms(.NET Framework)*
-  *antes de programar,agregar las herramientas de w. forms(buttons,listbox)*
+
+_crear proyecto con la plantilla: Aplicacion de Windows Forms(.NET Framework)_
+
+_antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
 
 1. Con el boton > pasar item seleccionado
 2. Con el boton >>> pasar todos items seleccionados
@@ -58,7 +64,6 @@ Menu:
 ![image](https://user-images.githubusercontent.com/66080281/124988562-862d1000-e014-11eb-88d1-f4e4f5eb915a.png)
 
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
-
 
 ### copitos
 
