@@ -9,10 +9,11 @@ El entorno de desarollo que usamos es Visual Community
 
 - [tarea 1](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
 - [tarea 2](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
-- [Ejercicios - 15 Apr](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
-- [Ejercicio ABM - 13 May](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
-- [Copitos - 20 May](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#copitos)
-- [Ejercicio Windows Forms - 24 Jun](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicio-windows-forms)
+- [Ejercicios - 15 Apr](https://github.com/brandonporcel/clases-csharp#ejercicios)
+- [Ejercicio ABM - 13 May](https://github.com/brandonporcel/clases-csharp#ejercicios)
+- [Copitos - 20 May](https://github.com/brandonporcel/clases-csharp#copitos)
+- [Ejercicio Windows Forms - 24 Jun](https://github.com/brandonporcel/clases-csharp#ejercicio-windows-forms)
+- [Clase Presencial(ordenar num) - 06 Jul](https://github.com/brandonporcel/clases-csharp#clase-06-07)
 
 ### Ejercicios
 
@@ -41,7 +42,7 @@ Menu:
 3. Eliminación de una persona
 4. Informe el promedio de edad
 5. Listado completo
-</br>
+   </br>
 
 ![image](https://user-images.githubusercontent.com/66080281/124985814-3ac53280-e011-11eb-9cee-f8b5aa8a0dbc.png)
 </br>
@@ -64,6 +65,7 @@ _antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### Copitos
+
 _crear proyecto con la plantilla: Aplicacion de consola_
 
 en tu consola caeran \*/ que simulan ser copos de nieve✨✨
@@ -71,5 +73,16 @@ en tu consola caeran \*/ que simulan ser copos de nieve✨✨
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
+### Ordenar Numeros
+
+_crear proyecto con la plantilla: Aplicacion de Windows Forms(.NET Framework)_
+
+_antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
+
+![image](https://user-images.githubusercontent.com/66080281/119400755-00961080-bcb1-11eb-813b-892eafc53f0b.png)
+</br>
+[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
+
 ## quien?
-*yo, [brandon porcel](https://instagram.com/brandonporcel)*
+
+_yo, [brandon porcel](https://instagram.com/brandonporcel)_

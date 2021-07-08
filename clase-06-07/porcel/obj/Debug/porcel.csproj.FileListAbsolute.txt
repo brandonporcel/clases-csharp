@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\porcel\porcel\bin\Debug\porcel.exe.config
+C:\Users\Alumno\source\repos\porcel\porcel\bin\Debug\porcel.exe
+C:\Users\Alumno\source\repos\porcel\porcel\bin\Debug\porcel.pdb
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\porcel.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\porcel.Form1.resources
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\porcel.Properties.Resources.resources
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\porcel.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\porcel.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\porcel.exe
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\porcel.pdb
+C:\Users\Alumno\source\repos\porcel\porcel\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alumno\source\repos\porcel\porcel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alumno\source\repos\porcel\porcel\obj\Debug\porcel.csproj.ResolveComReference.cache
