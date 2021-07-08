@@ -70,5 +70,5 @@ en tu consola caeran \*/ que simulan ser copos de nieve✨✨
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
-## Caraduría
+## 
 *por [brandon porcel](https://instagram.com/brandonporcel)*
