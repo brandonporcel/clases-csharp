@@ -11,9 +11,10 @@ en algunos usar forms otros consola
 
 - [tarea 1](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
 - [tarea 2](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
-- [ejercicios 15 Apr](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
+- [Ejercicios - 15 Apr](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
+- [Ejercicio ABM - 13 May](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#ejercicios)
 
-### ejercicios
+### Ejercicios
 *crear proyecto con la plantilla: Aplicacion de consola*
 
 Siempre trabajando con una lista pre armada de números:
@@ -22,7 +23,21 @@ Siempre trabajando con una lista pre armada de números:
 3. Buscar el elemento que contenga el numero 10 e insertar antes y después un 0
 4. Eliminar en primer y el ultimo elemento
 5. Eliminar en segundo y el ante ultimo elemento
-6. </br>
+</br>
+[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
+
+###Ejercicio ABM
+*crear proyecto con la plantilla: Aplicacion de consola*
+
+Hola chicos. Necesito que armen un programa integrador ABM, esto significa Altas, Bajas y Modificaciones.
+Menu:
+1 - Ingreso de nueva persona
+2 - Modificación de una persona
+3 - Eliminación de una persona 
+4 - Informe el promedio de edad
+5 - Listado completo
+![image](https://user-images.githubusercontent.com/66080281/124984665-e40b2900-e00f-11eb-942a-8cd0b5d427ee.png)
+</br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
 ### copitos
