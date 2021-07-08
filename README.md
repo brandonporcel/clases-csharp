@@ -10,10 +10,10 @@ El entorno de desarollo que usamos es Visual Community
 - [tarea 1](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
 - [tarea 2](https://drive.google.com/drive/folders/1ss-rntOw4VPa_NU01s5JSIWRCHI-Egov?usp=sharing)
 - [Ejercicios - 15 Apr](https://github.com/brandonporcel/clases-csharp#ejercicios)
-- [Ejercicio ABM - 13 May](https://github.com/brandonporcel/clases-csharp#ejercicios)
+- [Ejercicio ABM - 13 May](https://github.com/brandonporcel/clases-csharp#ejercicio-abm)
 - [Copitos - 20 May](https://github.com/brandonporcel/clases-csharp#copitos)
 - [Ejercicio Windows Forms - 24 Jun](https://github.com/brandonporcel/clases-csharp#ejercicio-windows-forms)
-- [Clase Presencial(ordenar num) - 06 Jul](https://github.com/brandonporcel/clases-csharp#clase-06-07)
+- [Clase Presencial(ordenar num) - 06 Jul](https://github.com/brandonporcel/clases-csharp#ordenar-numeros-clase)
 
 ### Ejercicios
 
@@ -73,13 +73,14 @@ en tu consola caeran \*/ que simulan ser copos de nieve✨✨
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
-### Ordenar Numeros
+### Ordenar numeros clase
 
 _crear proyecto con la plantilla: Aplicacion de Windows Forms(.NET Framework)_
 
 _antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
 
-![image](https://user-images.githubusercontent.com/66080281/119400755-00961080-bcb1-11eb-813b-892eafc53f0b.png)
+![image](https://user-images.githubusercontent.com/66080281/124996401-43bd0080-e01f-11eb-8bba-db8d03e4022d.png)
+![image](https://user-images.githubusercontent.com/66080281/124996443-50415900-e01f-11eb-8487-7ce850a18395.png)
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#indice)
 
