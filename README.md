@@ -1,4 +1,15 @@
-# Clases,Trabajos,Tareas Laboratorio c#- Escuela
+# c#
+
+Clases,Trabajos,Tareas Laboratorio - Escuela
+blabbalavldab balbl
+
+**NOTE: A passing build status indicates all listed APIs are available since the last update. A failing build status indicates that 1 or more services may be unavailable at the moment** 
+
+## Index
+- tarea-1
+- Tarea 2
+
+
 ### tarea-1
 agregar,eliminar,insertar numeros de una lista
 ### copitos
