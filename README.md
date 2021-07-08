@@ -7,7 +7,8 @@ blabbalavldab balbl
 
 ## Index
 - tarea-1
-- Tarea 2
+- [tarea 2](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#tarea-2)
+- Tarea 3
 
 
 ### tarea-1
