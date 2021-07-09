@@ -27,7 +27,7 @@ Siempre trabajando con una lista pre armada de números:
 4. Eliminar en primer y el ultimo elemento
 5. Eliminar en segundo y el ante ultimo elemento
 
-[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#index)
+[⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
 
 ### Ejercicio ABM
 
@@ -46,7 +46,7 @@ Menu:
 
 ![image](https://user-images.githubusercontent.com/66080281/124985814-3ac53280-e011-11eb-9cee-f8b5aa8a0dbc.png)
 </br>
-[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#index)
+[⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
 
 ### Ejercicio Windows Forms
 
@@ -62,7 +62,7 @@ _antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
 ![image](https://user-images.githubusercontent.com/66080281/124987964-cdff6780-e013-11eb-9498-ef91fa695e7f.png)
 ![image](https://user-images.githubusercontent.com/66080281/124988562-862d1000-e014-11eb-88d1-f4e4f5eb915a.png)
 </br>
-[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#index)
+[⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
 
 ### Copitos
 
@@ -71,7 +71,7 @@ _crear proyecto con la plantilla: Aplicacion de consola_
 en tu consola caeran \*/ que simulan ser copos de nieve✨✨
 ![image](https://user-images.githubusercontent.com/66080281/119400755-00961080-bcb1-11eb-813b-892eafc53f0b.png)
 </br>
-[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#index)
+[⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
 
 ### Ordenar numeros clase
 
@@ -82,7 +82,7 @@ _antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
 ![image](https://user-images.githubusercontent.com/66080281/124996401-43bd0080-e01f-11eb-8bba-db8d03e4022d.png)
 ![image](https://user-images.githubusercontent.com/66080281/124996443-50415900-e01f-11eb-8487-7ce850a18395.png)
 </br>
-[⬆Volver al indice](https://github.com/brandonporcel/Clases-Laboratorio-POO-c-#index)
+[⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
 
 ## quien?
 
