@@ -14,6 +14,7 @@ El entorno de desarollo que usamos es Visual Community
 - [Copitos - 20 May](https://github.com/brandonporcel/clases-csharp#copitos)
 - [Ejercicio Windows Forms - 24 Jun](https://github.com/brandonporcel/clases-csharp#ejercicio-windows-forms)
 - [Clase Presencial(ordenar num) - 06 Jul](https://github.com/brandonporcel/clases-csharp#ordenar-numeros-clase)
+- [TaTeTi](https://github.com/brandonporcel/clases-csharp#tateti)
 
 ### Ejercicios
 
@@ -81,6 +82,16 @@ _antes de programar,agregar las herramientas de w. forms(buttons,listbox)_
 
 ![image](https://user-images.githubusercontent.com/66080281/124996401-43bd0080-e01f-11eb-8bba-db8d03e4022d.png)
 ![image](https://user-images.githubusercontent.com/66080281/124996443-50415900-e01f-11eb-8487-7ce850a18395.png)
+</br>
+[⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
+
+### TaTeTi
+
+_crear proyecto con la plantilla: Aplicacion de Windows Forms(.NET Framework)_
+
+nota: a chequear el boton reiniciar y el codigo(una bosta) 😴
+
+![image](https://user-images.githubusercontent.com/66080281/133146901-668bf55c-16af-479d-8dc9-7ff204307529.png)
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
 
