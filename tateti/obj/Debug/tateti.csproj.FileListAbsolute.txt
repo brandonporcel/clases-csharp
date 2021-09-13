@@ -1,0 +1,10 @@
+C:\Users\brand\OneDrive\Escritorio\tateti\bin\Debug\tateti.exe.config
+C:\Users\brand\OneDrive\Escritorio\tateti\bin\Debug\tateti.exe
+C:\Users\brand\OneDrive\Escritorio\tateti\bin\Debug\tateti.pdb
+C:\Users\brand\OneDrive\Escritorio\tateti\obj\Debug\tateti.csprojAssemblyReference.cache
+C:\Users\brand\OneDrive\Escritorio\tateti\obj\Debug\tateti.Form1.resources
+C:\Users\brand\OneDrive\Escritorio\tateti\obj\Debug\tateti.Properties.Resources.resources
+C:\Users\brand\OneDrive\Escritorio\tateti\obj\Debug\tateti.csproj.GenerateResource.cache
+C:\Users\brand\OneDrive\Escritorio\tateti\obj\Debug\tateti.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Escritorio\tateti\obj\Debug\tateti.exe
+C:\Users\brand\OneDrive\Escritorio\tateti\obj\Debug\tateti.pdb
