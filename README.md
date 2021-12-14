@@ -15,6 +15,7 @@ El entorno de desarollo que usamos es Visual Community
 - [Ejercicio Windows Forms - 24 Jun](https://github.com/brandonporcel/clases-csharp#ejercicio-windows-forms)
 - [Clase Presencial(ordenar num) - 06 Jul](https://github.com/brandonporcel/clases-csharp#ordenar-numeros-clase)
 - [TaTeTi](https://github.com/brandonporcel/clases-csharp#tateti)
+- [Clima App](https://github.com/brandonporcel/clases-csharp#clima-app)
 
 ### Ejercicios
 
@@ -95,6 +96,16 @@ nota: a chequear el boton reiniciar y el codigo(una bosta) 😴
 </br>
 [⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
 
-## quien?
+### Clima App
 
-_yo, [brandon porcel](https://instagram.com/brandonporcel)_
+_crear proyecto con la plantilla: Aplicacion de Windows Forms_ <br>
+_instalar paquete nuget Microsoft Json. [Así](https://docs.microsoft.com/es-es/visualstudio/mac/nuget-walkthrough?view=vsmac-2019)_
+
+Realizar un programa que muestre el clima usando una api.
+![image](https://user-images.githubusercontent.com/66080281/146090965-3605b0f5-e6e0-4010-a77d-54af9889b756.png)
+</br>
+[⬆Volver al indice](https://github.com/brandonporcel/clases-csharp#index)
+
+## /////////////////
+
+_�🐱‍💻_
